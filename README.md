@@ -260,7 +260,7 @@ Pipeline: **data → clean → target → features → split → scale → selec
 
 ## 10. Links: slides and video
 
-- **Slides (exactly 5):** [`docs/vgcmeta.pdf`](docs/Vgcmeta.pdf)
+- **Slides (exactly 5):** [`docs/vgcmeta.pdf`](vgcmeta.pdf)
 - **Video (max 5:00):** VIDEO_LINK_PENDING (unlisted YouTube or Drive link, "anyone with the link can view")
 
 ---
