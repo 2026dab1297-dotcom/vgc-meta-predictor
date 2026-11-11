@@ -76,9 +76,8 @@ vgc-meta-predictor/
 │   ├── confusion_matrix.png
 │   ├── roc_curve.png
 │   └── metrics_table.png
-└── docs/
-    ├── vgcmeta.pdf                        # exactly 5 slides
-    └── (video link is given in Section 10)
+└──  vgcmeta.pdf                        # exactly 5 slides
+└── (video link is given in Section 10)
 ```
 
 > The notebook reads the data with the relative path `../dataset/pokemon_competitive_analysis.csv`, so `code/` and `dataset/` must sit side by side exactly as shown above. No absolute paths (such as `C:/Users/...`) are used anywhere.
@@ -264,7 +263,7 @@ Pipeline: **data → clean → target → features → split → scale → selec
 ## 10. Links: slides and video
 
 - **Slides (exactly 5):** [`vgcmeta.pdf`](vgcmeta.pdf)
-- **Video (max 5:00):** https://youtu.be/4zA-G-M0Hws
+- **Video (5:05):** https://youtu.be/4zA-G-M0Hws
 
 ---
 
