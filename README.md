@@ -6,6 +6,9 @@ Predicts whether a Pokémon is "meta" (≥ 1% usage at the VGC World Championshi
 
 **Course:** AI101: Data Science and AI Essentials with Python, School of AI & Data Engineering, IIT Ropar
 
+## Video Link : https://youtu.be/4zA-G-M0Hws
+
+
 ---
 
 ## Table of contents
@@ -261,7 +264,7 @@ Pipeline: **data → clean → target → features → split → scale → selec
 ## 10. Links: slides and video
 
 - **Slides (exactly 5):** [`vgcmeta.pdf`](vgcmeta.pdf)
-- **Video (max 5:00):** VIDEO_LINK_PENDING (unlisted YouTube or Drive link, "anyone with the link can view")
+- **Video (max 5:00):** https://youtu.be/4zA-G-M0Hws
 
 ---
 
